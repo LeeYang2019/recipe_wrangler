@@ -11,13 +11,12 @@ The program adds recipes from a file at the start and then allows the user to ad
 ### The following are what I learned from the project:
 
         Write a program that conforms to a specified user interface.
-        Warning! Your solution will be tested using an automatic testing suite and failure to produce output as specified will mean that your solution will fail many tests and lose many points.
         Use arrays (or ArrayLists of objects) to store [expandable] lists of data.
-        Implement the java.lang.Comparable interface (for sorting)
-        Read data from a File (file input).
-        Write data to a File (file output).
-        Implement basic exception handling (must handle FileNotFoundExceptions using try/catch somewhere in program).
-        Implement an entire program from scratch (no skeleton files! -- we will suggest a basic Object-Oriented design) .
+        Implement the java.lang.Comparable interface.
+        Read data from a File.
+        Write data to a File.
+        Implement basic exception handling in the program.
+        Implement an entire program from scratch 
         Employ good software design principles:
             design and implement instantiable classes for things like recipes, and lists of recipes
             protect data via encapsulation (private fields and public methods as needed)
