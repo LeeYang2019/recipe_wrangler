@@ -1,0 +1,7 @@
+2
+APPLE
+apple
+apple
+HELLO
+hello
+hello
